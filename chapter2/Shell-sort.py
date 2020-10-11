@@ -18,4 +18,4 @@ def shellsort(nums):
                     break
         h //= 3
 
-
+# O(n^k), k =4/3; 5/4 ...

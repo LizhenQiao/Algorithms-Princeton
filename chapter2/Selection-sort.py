@@ -10,3 +10,5 @@ def selectionsort(nums):
                 min_index = j
         nums[i], nums[min_index] = nums[min_index], nums[i]
 
+# O(n^2)
+

@@ -12,4 +12,4 @@ def insertionsort(nums):
             else:
                 break
 
-
+# O(n^2)
